@@ -1,6 +1,6 @@
 ---
 description: 'Spec Agent — transforma um briefing de negócio vago em uma especificação de produto clara, completa e sem ambiguidades.'
-tools: ['codebase', 'search', 'editFiles']
+tools: ['search/codebase', 'search', 'edit/editFiles']
 ---
 
 # Spec Agent
