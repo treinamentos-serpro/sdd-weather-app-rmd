@@ -4,7 +4,7 @@
   "description": "Spec-Driven Development com GitHub Copilot — construindo um Weather App",
   "type": "module",
   "license": "MIT",
-  "packageManager": "pnpm@11.8.0",
+  "packageManager": "pnpm@11.25.0",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
